@@ -1,3 +1,5 @@
-erzeugung merge conflict
 # KONF101
-reines übungsrepo 
+reines übungsrepo
+
+erzeugung merge conflict
+change dev 2
